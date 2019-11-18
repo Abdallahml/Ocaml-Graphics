@@ -1,0 +1,5 @@
+>>>>>>>>>>explique le travaille<<<<<<<<<<<<
+1) Notre Projet :un document pdf de travaille réalisé;
+2)les sources (*executable*)
+  a)automates.ml (*valide+complet+deterministe*):ocaml
+  b)graphic.ml (*dessin automate*):ocamol graphics
