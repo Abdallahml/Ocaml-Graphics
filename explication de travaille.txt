@@ -3,3 +3,4 @@
 2)les sources (*executable*)
   a)automates.ml (*valide+complet+deterministe*):ocaml
   b)graphic.ml (*dessin automate*):ocamol graphics
+  c)have a good day
